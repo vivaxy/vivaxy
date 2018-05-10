@@ -1,0 +1,27 @@
+{
+  "name": "vivaxy",
+  "version": "0.0.0",
+  "description": "npx vivaxy",
+  "bin": {
+    "vivaxy": "./index.js"
+  },
+  "scripts": {
+    "release": "standard-version && git push --follow-tags && npm publish --registry=https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivaxy/vivaxy.git"
+  },
+  "keywords": [
+    "vivaxy"
+  ],
+  "author": "vivaxy <xyxuye2007@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivaxy/vivaxy/issues"
+  },
+  "homepage": "https://github.com/vivaxy/vivaxy#readme",
+  "devDependencies": {
+    "standard-version": "^4.3.0"
+  }
+}
