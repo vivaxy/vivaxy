@@ -23,5 +23,8 @@
   "homepage": "https://github.com/vivaxy/vivaxy#readme",
   "devDependencies": {
     "standard-version": "^4.3.0"
+  },
+  "dependencies": {
+    "figlet": "^1.2.0"
   }
 }

@@ -5,4 +5,13 @@
  * @author vivaxy
  */
 
-console.log('I\'m vivaxy');
+const figlet = require('figlet');
+
+figlet.text('vivaxy', {
+  font: 'Star Wars',
+}, (err, data) => {
+  if (err) {
+    return;
+  }
+  console.log(data);
+});
