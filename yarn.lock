@@ -1589,9 +1589,10 @@ fb-watchman@^2.0.0:
   dependencies:
     bser "^2.0.0"
 
-figlet@^1.2.0:
+figlet@1.2.0:
   version "1.2.0"
   resolved "https://registry.npmjs.org/figlet/-/figlet-1.2.0.tgz#6c46537378fab649146b5a6143dda019b430b410"
+  integrity sha1-bEZTc3j6tkkUa1phQ92gGbQwtBA=
 
 figures@3.0.0:
   version "3.0.0"
@@ -1983,7 +1984,7 @@ http-signature@~1.2.0:
     jsprim "^1.2.2"
     sshpk "^1.7.0"
 
-husky@^3.0.2:
+husky@3.0.2:
   version "3.0.2"
   resolved "https://registry.npmjs.org/husky/-/husky-3.0.2.tgz#e78fd2ae16edca59fc88e56aeb8d70acdcc1c082"
   integrity sha512-WXCtaME2x0o4PJlKY4ap8BzLA+D0zlvefqAvLCPriOOu+x0dpO5uc5tlB7CY6/0SE2EESmoZsj4jW5D09KrJoA==
@@ -2725,7 +2726,7 @@ jest-worker@^24.6.0:
     merge-stream "^1.0.1"
     supports-color "^6.1.0"
 
-jest@^24.8.0:
+jest@24.8.0:
   version "24.8.0"
   resolved "https://registry.npmjs.org/jest/-/jest-24.8.0.tgz#d5dff1984d0d1002196e9b7f12f75af1b2809081"
   integrity sha512-o0HM90RKFRNWmAWvlyV8i5jGZ97pFwkeVoGvPW1EtLTgJc2+jcuqcbbqcSZLE/3f2S5pt0y2ZBETuhpWNl1Reg==
@@ -2882,7 +2883,7 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.npmjs.org/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-lint-staged@^9.2.1:
+lint-staged@9.2.1:
   version "9.2.1"
   resolved "https://registry.npmjs.org/lint-staged/-/lint-staged-9.2.1.tgz#57fc5947611604d5a32e478734a13f3e4687f646"
   integrity sha512-3lGgJfBddCy/WndKdNko+uJbwyYjBD1k+V+SA+phBYWzH265S95KQya/Wln/UL+hOjc7NcjtFYVCUWuAcqYHhg==
@@ -3813,7 +3814,7 @@ prelude-ls@~1.1.2:
   resolved "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ=
 
-prettier@^1.18.2:
+prettier@1.18.2:
   version "1.18.2"
   resolved "https://registry.npmjs.org/prettier/-/prettier-1.18.2.tgz#6823e7c5900017b4bd3acf46fe9ac4b4d7bda9ea"
   integrity sha512-OeHeMc0JhFE9idD4ZdtNibzY0+TPHSpSSb9h8FqtP+YnoZZ1sl8Vc9b1sasjfymH3SonAF4QcA2+mzHPhMvIiw==
@@ -4386,7 +4387,7 @@ stack-utils@^1.0.1:
   resolved "https://registry.npmjs.org/stack-utils/-/stack-utils-1.0.2.tgz#33eba3897788558bebfc2db059dc158ec36cebb8"
   integrity sha512-MTX+MeG5U994cazkjd/9KNAapsHnibjMLnfXodlkXw76JEea0UiNzrqidzo1emMwk7w5Qhc9jd4Bn9TBb1MFwA==
 
-standard-version@^7.0.0:
+standard-version@7.0.0:
   version "7.0.0"
   resolved "https://registry.npmjs.org/standard-version/-/standard-version-7.0.0.tgz#4ce10ea5d20270ed4a32b22d15cce5fd1f1a5bbb"
   integrity sha512-pbFXM9vutnxTkSGkqSWQeYCMYqWmFBaLUNdEc/sJDQnMgwB0Csw3CZeeDhi62VoVS3P8mQiYbvXGZWyOBWxUbw==
